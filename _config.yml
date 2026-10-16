@@ -1,0 +1,9 @@
+
+title: "How to Design Strategy Games"
+description: "Exploring strategy game design, mechanics, and how game systems drive player decision making."
+
+theme: minima
+markdown: kramdown
+
+url: "https://aidanrhughes.github.io"
+baseurl: "/HowToDesignStrategyGames"
