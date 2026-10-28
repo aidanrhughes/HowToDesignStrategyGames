@@ -5,5 +5,5 @@ description: "Exploring strategy game design, mechanics, and how game systems dr
 theme: minima
 markdown: kramdown
 
-url: "https://aidanrhughes.github.io"
-baseurl: "/HowToDesignStrategyGames"
+url: "https://howtodesignstrategygames.com"
+baseurl: ""
